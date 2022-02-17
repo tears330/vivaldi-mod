@@ -1,0 +1,1 @@
+export * from './move-ext-to-tabbar';
